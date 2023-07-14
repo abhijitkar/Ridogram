@@ -8,7 +8,7 @@
       "modules",
       "productivity"
     ],
-    "repository": "https://github.com/iniridwanul/Ridogram",
+    "repository": "https://github.com/abhijitkar/Ridogram",
     "env": {
       "api_id": {
         "description": "Collect this value from my.telegram.org and do not share it with anyone.",
